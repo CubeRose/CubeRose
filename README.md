@@ -1,10 +1,10 @@
 # 🏄‍♂️ CubeRose
 
-**`Aspiring Developer/Musician`**
+**`Aspiring Developer + Musician`**
 
 I'm a CS student and musician yet trying to figure out my path. I'm passionate about low-level learning, OS development, and cross-plattaform app development. I'd also like to create useful digital resources for other aspiring musicians.
 
-   <p align="left">
+   <!-- <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
       <a href="https://www.youtube.com/c/fknight">
@@ -13,7 +13,7 @@ I'm a CS student and musician yet trying to figure out my path. I'm passionate a
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+   </p> -->
 
 ---
 
@@ -32,11 +32,12 @@ I'm a CS student and musician yet trying to figure out my path. I'm passionate a
 
 ![CubeRose's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuberose&show_icons=true&theme=nord)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=CubeRose&theme=nord&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=CubeRose&theme=nord&border_radius=4.5)
 
 #
-<!--
-<details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
--->
+
+<!-- <details>
+ <summary><h3>👨‍💻 The weird story</h3></summary>
+   When I started CS I barely even knew what it was about. I had no prior experience with programming and I wasn't a very "technical" user either. On my first semester, as time went by, I started thinking that this wasn't what I wanted to do, and I was on the verge of droping out to become a Professional Musician.
+   Fortunately something clicked, figuring out what I actually wanted: I want to be everything. I've always been the type who does "way too many things". Through my whole life I've balanced being a Top Student, Conservatory Musician, Martial Artist, and many other hobbies. I figured that, if I work hard enough, I'll be able to keep up with all of them while becoming a professional in this field.
+   I'm still very new to this, and I don't yet know enough to build amazing projects all by myself. But yet I would like to prove that the catchphrase ~"Jack of all trades - master of none"~ doesn't have to be true. I'll keep trying to excel at everything I do, and inspire others to try the same. -->
