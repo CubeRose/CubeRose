@@ -1,4 +1,4 @@
-# 🏄‍♂️ CubeRose
+# 💪 CubeRose
 
 **`Aspiring Developer + Musician`**
 
